@@ -1,5 +1,7 @@
 # manhwa
 
+this repository implementation from my example fake API, there are my-recommendation-manhwa. and then i create this repository with Vue.js
+
 ## Project setup
 ```
 npm install
