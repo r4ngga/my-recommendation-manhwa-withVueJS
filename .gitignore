@@ -1,7 +1,9 @@
 .DS_Store
 node_modules
 /dist
-
+4111.eps
+4111.jpg
+4111_2.jpg
 
 # local env files
 .env.local
